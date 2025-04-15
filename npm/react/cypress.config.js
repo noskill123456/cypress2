@@ -1,7 +1,7 @@
 module.exports = {
   'viewportWidth': 400,
   'viewportHeight': 400,
-  'projectId': 'z9dxah',
+  'projectId': 'k13n18',
   'env': {
     'reactDevtools': true,
   },
